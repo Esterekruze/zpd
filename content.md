@@ -2,6 +2,6 @@
 
 #### Saturs
 
-#### !. Aprakstīt spēli
+#### 1. Aprakstīt spēli
 #### 2. Spēles logika
 #### 3. Utt.
